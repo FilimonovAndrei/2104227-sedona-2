@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
-* Студент: [Андрей Филимонов](https://up.htmlacademy.ru/htmlcss-individual/2/user/2104227).
-* Наставник: [Андрей Грачёв](https://htmlacademy.ru/profile/angra).
+* Студент: [Андрей Филимонов](https://up.htmlacademy.ru/htmlcss-individual/2/user/2104227);
+* Наставник: [Андрей Грачёв](https://htmlacademy.ru/profile/angra);
 * Учебный проект: [SEDONA](https://filimonovandrei.github.io/2104227-sedona-2/).
 
 ---
